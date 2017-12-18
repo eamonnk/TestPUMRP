@@ -29,8 +29,7 @@ sections: [
     ['ArchDistriApps', 'Devops200.9x Architecting Distributed Cloud Apps'],
     ['DevopsMPPCapstone', 'Devops200.10x DevOps MPP Capstone Project'],
     ['AzureStack', 'Fundamentals on Azure Stack'],
-    ['Misc', 'Miscellaneous'],
-    ['Adv', 'Advanced']
+
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
