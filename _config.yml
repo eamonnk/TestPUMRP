@@ -18,16 +18,16 @@ codeurl: 'https://github.com/eamonnk/TestPUMRP'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['PracticesandPrinciples', 'Devops200.1x DevOps Practices and Principles'],
-    ['IaC', 'Devops200.2x Infrastructure as Code'],
-    ['CICD', 'Devops200.3xContinuous Integration and Continuous Deployment'],
-    ['ConfigMgmt', 'Devops200.4x Configuration Mgmt For Containerized Delivery'],
-    ['Testing', 'Devops200.5x DevOps Testing'],
-    ['Databases', 'Devops200.6x DevOps with Databases'],
-    ['App Monitoring', 'Devops200.7x Application Monitoring and Feedback Loops'],
-    ['Mobile', 'Devops200.8x DevOps for Mobile Apps'],
-    ['ArchDistriApps', 'Devops200.9x Architecting Distributed Cloud Apps'],
-    ['DevopsMPPCapstone', 'Devops200.10x DevOps MPP Capstone Project'],
+    ['PracticesandPrinciples', 'DevOps Practices and Principles'],
+    ['IaC', 'Infrastructure as Code'],
+    ['CICD', 'Continuous Integration and Continuous Deployment'],
+    ['ConfigMgmt', 'Configuration Mgmt For Containerized Delivery'],
+    ['Testing', 'DevOps Testing'],
+    ['Databases', ' DevOps with Databases'],
+    ['App Monitoring', 'Application Monitoring and Feedback Loops'],
+    ['Mobile', 'DevOps for Mobile Apps'],
+    ['ArchDistriApps', 'Architecting Distributed Cloud Apps'],
+    ['DevopsMPPCapstone', 'DevOps MPP Capstone Project'],
     ['AzureStack', 'Fundamentals on Azure Stack'],
 
 ]
