@@ -18,7 +18,6 @@ codeurl: 'https://github.com/eamonnk/TestPUMRP'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['FundOth', 'Fundamentals using Other Tools'],
     ['PracticesandPrinciples', 'Devops200.1x DevOps Practices and Principles'],
     ['IaC', 'Devops200.2x Infrastructure as Code'],
     ['CICD', 'Devops200.3xContinuous Integration and Continuous Deployment'],
