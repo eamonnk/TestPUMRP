@@ -1,4 +1,4 @@
-title: 'PartsUnlimitedMRP'
+title: 'Test PUMRP PartsUnlimitedMRP'
 subtitle: 'DevOps Hands On Labs'
 
 # if you wish to integrate disqus on pages set your shortname here
@@ -14,7 +14,7 @@ google_analytics_id: ''
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/Microsoft/PartsUnlimitedMRP'
+codeurl: 'https://github.com/eamonnk/TestPUMRP'
 
 # Default categories (in order) to appear in the navigation
 sections: [
@@ -37,7 +37,7 @@ sections: [
 
 # Keep as an empty string if served up at the root. If served up at a specific
 # path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
-baseurl: '/PartsUnlimitedMRP'
+baseurl: '/TestPUMRP'
 
 # Dates are not included in permalinks
 permalink: none
