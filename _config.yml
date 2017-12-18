@@ -20,6 +20,8 @@ codeurl: 'https://github.com/eamonnk/TestPUMRP'
 sections: [
     ['FundVSTS', 'Fundamentals using Visual Studio Team Services'],
     ['FundOth', 'Fundamentals using Other Tools'],
+    ['PracticesandPrinciples', 'Devops200.1x DevOps Practices and Principles'],
+    ['IaC', 'Devops200.2x Infrastructure as Code'],
     ['AzureStack', 'Fundamentals on Azure Stack'],
     ['Misc', 'Miscellaneous'],
     ['Adv', 'Advanced']
